@@ -1,0 +1,6 @@
+Right Click on the widget and press 
+
+(Alt+Enter)
+
+You will get options of if you want to wrap it in centered widget or something etc
+
