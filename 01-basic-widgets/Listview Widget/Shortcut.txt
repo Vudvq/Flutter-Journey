@@ -1,0 +1,5 @@
+Shortcuts to get (context, index){
+
+}
+
+(ctrl+space) for list builder and seperater

@@ -1,0 +1,8 @@
+ScrollView:
+
+first make a row or column you want to appply scrollview on, after that select the row or column and wrap it with padding and wrap it witha  widget and name is singlechildscrollview
+for column it will work fine for rows:
+
+Child :SingleChildScrollView(
+scroolviewDirection: Axis.horizontal
+)

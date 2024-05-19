@@ -1,0 +1,4 @@
+First make a container and wrap it with center widget using (Alt+Enter), after that in order to use INKELL wrap the container with a widget and 
+name the widget INKELL in which you will get options like Ontap, OnLongtap, On double tap same goes for if you want to inkell a text widget.
+
+Thank You
