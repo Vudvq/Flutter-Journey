@@ -1,0 +1,5 @@
+we get a build in attribute in expanded widget called flex, using flex we can give every container some ratio of the screen, if we dont use flex all the screen space would be equally divided to containers using flex we can give how much ratio of screen can one container use
+
+Expanded(
+flex:2,
+)
