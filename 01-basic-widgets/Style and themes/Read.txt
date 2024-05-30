@@ -1,0 +1,2 @@
+if You want to use the same colors or text style what has same size and weight for that you make a theme that contains the req style and color, 
+then use the theme in text that require that color or style
